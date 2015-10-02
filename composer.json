@@ -16,7 +16,7 @@
     "require": {
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.*",
-        "mrclay/minify": "dev-master"
+        "mrclay/minify": "2.2.1"
     },
     "autoload": {
         "psr-0": {
